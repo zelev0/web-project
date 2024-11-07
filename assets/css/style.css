@@ -267,7 +267,7 @@ img {
 
 /* Hero */
 .hero {
-  background: linear-gradient(0deg, #0000009e, #000000c4 60%), url('../img/bg.jpg');
+  background: linear-gradient(0deg, #00000069, #00000069 60%), url('../img/bng.jpg');
   background-size: cover;
   /* cover | contain */
   background-repeat: no-repeat;
@@ -629,7 +629,7 @@ img {
   }
 
   .skills__content {
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
   }
 
